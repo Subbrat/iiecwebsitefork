@@ -232,3 +232,19 @@ hr{border:0;border-top:1px solid #eee;margin:20px 0}
 .su6-border-dark-grey,.su6-hover-border-dark-grey:hover,.su6-border-dark-gray,.su6-hover-border-dark-gray:hover{border-color:#616161!important}
 .su6-border-pale-red,.su6-hover-border-pale-red:hover{border-color:#ffe7e7!important}.su6-border-pale-green,.su6-hover-border-pale-green:hover{border-color:#e7ffe7!important}
 .su6-border-pale-yellow,.su6-hover-border-pale-yellow:hover{border-color:#ffffcc!important}.su6-border-pale-blue,.su6-hover-border-pale-blue:hover{border-color:#e7ffff!important}
+
+/* addnl */
+@media (min-width:  1016px) {
+    #ftcen {
+        display: none;
+
+    }
+}
+
+@media (max-width: 1015px) {
+    #ftrig {
+        display: none;
+
+    }
+}
+
