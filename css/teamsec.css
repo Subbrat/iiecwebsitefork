@@ -1,20 +1,22 @@
-.our-team{
+.our-team {
     margin: 20px;
     text-align: center;
     transition: all 0.5s ease 0s;
 }
-.our-team:hover{
+
+.our-team:hover {
     box-shadow: 0 15px 10px -10px rgba(0, 0, 0, 0.5), 0 1px 4px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;
 }
-.our-team .pic{
+
+.our-team .pic {
     overflow: hidden;
     position: relative;
- 
+
 }
 
 /* Change the color code here********************************* */
 .our-team .pic:before,
-.our-team .pic:after{
+.our-team .pic:after {
     content: "";
     width: 200%;
     height: 80%;
@@ -25,20 +27,29 @@
     transform: rotate(45deg);
     transition: all 0.5s ease 0s;
 }
-.our-team .pic:after{
+
+.our-team .pic:after {
     background: rgba(233, 212, 186, 0.8);
     top: auto;
     left: auto;
     bottom: -100%;
     right: -4%;
 }
-.our-team:hover .pic:before{ top: 0; }
-.our-team:hover .pic:after{ bottom: 0; }
-.our-team .pic img{
+
+.our-team:hover .pic:before {
+    top: 0;
+}
+
+.our-team:hover .pic:after {
+    bottom: 0;
+}
+
+.our-team .pic img {
     width: 100%;
     height: auto;
 }
-.our-team .social{
+
+.our-team .social {
     width: 100%;
     padding: 0;
     margin: 0;
@@ -51,9 +62,15 @@
     transition: all 0.5s ease 0.3s;
 }
 
-.our-team:hover .social{ opacity: 1; }
-.our-team .social li{ display: inline-block; }
-.our-team .social li a{
+.our-team:hover .social {
+    opacity: 1;
+}
+
+.our-team .social li {
+    display: inline-block;
+}
+
+.our-team .social li a {
     display: block;
     width: 40px;
     height: 40px;
@@ -64,7 +81,8 @@
     position: relative;
     transition: all 0.3s ease 0s;
 }
-.our-team .social li a:after{
+
+.our-team .social li a:after {
     content: "";
     width: 100%;
     height: 100%;
@@ -76,9 +94,16 @@
     z-index: -1;
     transition: all 0.3s ease 0s;
 }
-.our-team .social li a:hover:after{ transform: rotate(180deg); }
-.our-team .team-content{ padding: 20px; }
-.our-team .title{
+
+.our-team .social li a:hover:after {
+    transform: rotate(180deg);
+}
+
+.our-team .team-content {
+    padding: 20px;
+}
+
+.our-team .title {
     font-size: 22px;
     font-family: "Helvetica", serif;
     font-weight: 600;
@@ -86,13 +111,17 @@
     color: #0d1416;
     margin-bottom: 7px;
 }
-.our-team .post{
+
+.our-team .post {
     font-family: "Roboto Light", sans-serif;
     display: block;
     font-size: 17px;
     font-weight: 600;
     color: rgba(70, 67, 67, 0.623);
 }
-@media only screen and (max-width: 990px){
-    .our-team{ margin-bottom: 30px; }
+
+@media only screen and (max-width: 990px) {
+    .our-team {
+        margin-bottom: 30px;
+    }
 }
