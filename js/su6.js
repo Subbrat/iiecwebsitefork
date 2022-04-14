@@ -24,7 +24,7 @@
     });
 }
 
-{
-    // prevent right click
-    document.oncontextmenu = new Function("return false");
-}
+// {
+//     // prevent right click
+//     document.oncontextmenu = new Function("return false");
+// }
