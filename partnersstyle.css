@@ -1,0 +1,21 @@
+.square-holder {
+    padding:30px;
+/*     border: 1px solid #cecece; */
+    align-items: center;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom:20px;
+    background-color:#e6e6e6;
+    min-height:200px
+  }
+  
+  .square-holder img {
+    max-width:100%;
+    filter: grayscale(100%);
+    transition: all 0.3s;
+  }
+  
+  .square-holder:hover img{
+    filter:none;
+  }
