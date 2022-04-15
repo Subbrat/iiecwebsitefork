@@ -1624,7 +1624,7 @@ span[data-jarallax-element] {
 footer {
   padding: 4rem 0;
   font-size: 15px;
-  margin-top: 4rem;
+  /* margin-top: 4rem; */
 }
 
 footer h3 {
