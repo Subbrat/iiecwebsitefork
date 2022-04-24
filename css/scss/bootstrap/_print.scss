@@ -1,15 +1,6 @@
-// stylelint-disable declaration-no-important, selector-no-qualifying-type
-
-// Source: https://github.com/h5bp/html5-boilerplate/blob/master/src/css/main.css
-
-// ==========================================================================
-// Print styles.
-// Inlined to avoid the additional HTTP request:
-// https://www.phpied.com/delay-loading-your-print-css/
-// ==========================================================================
-
 @if $enable-print-styles {
   @media print {
+
     *,
     *::before,
     *::after {
@@ -30,9 +21,8 @@
     //a[href]::after {
     //  content: " (" attr(href) ")";
     //}
-
     abbr[title]::after {
-      content: " (" attr(title) ")";
+      content: " ("attr(title) ")";
     }
 
     // Bootstrap specific; comment the following selector out
@@ -40,15 +30,14 @@
     // Don't show links that are fragment identifiers,
     // or use the `javascript:` pseudo protocol
     //
-
     //a[href^="#"]::after,
     //a[href^="javascript:"]::after {
     // content: "";
     //}
-
     pre {
       white-space: pre-wrap !important;
     }
+
     pre,
     blockquote {
       border: $border-width solid $gray-500; // Bootstrap custom code; using `$border-width` instead of 1px
@@ -59,10 +48,13 @@
     // Printing Tables:
     // http://css-discuss.incutio.com/wiki/Printing_Tables
     //
-
     thead {
       display: table-header-group;
     }
+
+
+
+
 
     tr,
     img {
@@ -82,16 +74,17 @@
     }
 
     // Bootstrap specific changes start
-
     // Specify a size and min-width to make printing closer across browsers.
     // We don't set margin here because it breaks `size` in Chrome. We also
     // don't use `!important` on `size` as it breaks in Chrome.
     @page {
       size: $print-page-size;
     }
+
     body {
       min-width: $print-body-min-width !important;
     }
+
     .container {
       min-width: $print-body-min-width !important;
     }
@@ -100,6 +93,7 @@
     .navbar {
       display: none;
     }
+
     .badge {
       border: $border-width solid $black;
     }
@@ -114,6 +108,7 @@
     }
 
     .table-bordered {
+
       th,
       td {
         border: 1px solid $gray-300 !important;
@@ -126,7 +121,7 @@
       th,
       td,
       thead th,
-      tbody + tbody {
+      tbody+tbody {
         border-color: $table-border-color;
       }
     }

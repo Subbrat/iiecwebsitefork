@@ -1,13 +1,16 @@
-
 .untree_co-slider {
-	&, & > .container > .row {
+
+	&,
+	&>.container>.row {
 		min-height: 600px;
 		height: 70vh;
 	}
-	> .container {
+
+	>.container {
 		position: relative;
 		z-index: 2;
 	}
+
 	.slider-direction-wrap {
 		min-height: 600px;
 		height: 70vh;
@@ -16,10 +19,12 @@
 		width: 70vw;
 		right: 0;
 		z-index: 9;
+
 		.slider-direction {
 			bottom: 0;
 			position: absolute;
 			left: 0;
+
 			a {
 				float: left;
 				display: inline-block;
@@ -31,6 +36,7 @@
 			}
 		}
 	}
+
 	.image-slider-wrap {
 		.image-slider {
 			min-height: 600px;
@@ -44,11 +50,13 @@
 				opacity: 0;
 				visibility: hidden;
 				z-index: 1;
+
 				&.active {
 					opacity: 1;
 					visibility: visible;
 					z-index: 2;
 				}
+
 				position: absolute;
 				top: 0;
 				bottom: 0;
@@ -61,12 +69,14 @@
 
 			}
 		}
+
 		.slider-direction {
 			position: absolute;
 			bottom: 0;
 			right: 0;
 			width: 70vw;
 			z-index: 9;
+
 			a {
 				display: inline-block;
 				height: 50px;
@@ -77,6 +87,7 @@
 			}
 		}
 	}
+
 	h1 {
 		font-family: $font-family-heading;
 		font-size: 50px;
@@ -84,4 +95,3 @@
 		font-weight: 700;
 	}
 }
-
