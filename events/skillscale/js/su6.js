@@ -1,6 +1,5 @@
-// javascript inherited from opensource, free for community use by https://github.com/subbrat for iiec
+// javascript inherited from opensource, free for community use by https://github.com/subbrat
 {
-    // the smooth slider
     document.addEventListener("DOMContentLoaded", function () {
         var t = document.querySelector(".s6slide");
 
@@ -21,7 +20,9 @@
             280 < document.body.scrollTop || 280 < document.documentElement.scrollTop ? (t.removeAttribute("style", "transform: translateX(120px);"), t.setAttribute("style", "transform: translateX(0);")) : (t.removeAttribute("style", "transform: translateX(0);"), t.setAttribute("style", "transform: translateX(120px);"))
         })
     });
-} {
-    // prevent right click
+}
+
+{
+
     document.oncontextmenu = new Function("return false");
 }
