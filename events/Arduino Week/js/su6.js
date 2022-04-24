@@ -1,6 +1,5 @@
-// javascript inherited from opensource, free for community use by https://github.com/subbrat for iiec
+// javascript inherited from opensource, free for community use by https://github.com/subbrat
 {
-    // the smooth slider
     document.addEventListener("DOMContentLoaded", function () {
         var t = document.querySelector(".s6slide");
 
@@ -24,6 +23,5 @@
 }
 
 {
-    // prevent right click
     document.oncontextmenu = new Function("return false");
 }
