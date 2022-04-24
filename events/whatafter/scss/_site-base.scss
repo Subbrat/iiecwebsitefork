@@ -1,3 +1,4 @@
+
 html {
   overflow-x: hidden;
 }
@@ -26,7 +27,7 @@ body {
       opacity: 1;
       visibility: visible;
     }
-  }
+  }  
 }
 a {
   color: $primary;
@@ -44,6 +45,7 @@ h1, h2, h3, h4, h5 {
 .text-primary {
   color: $primary!important;
 }
+
 .text-black {
   color: $black!important;
 }
@@ -56,9 +58,12 @@ a.text-primary {
 .bg-primary {
   background-color: $primary!important;
 }
+
 h1, .h1, h2, .h2, h3, .h3, h4, .h4 {
   font-family: $font-family;
 }
+
+
 .btn {
   padding-top: 12px;
   padding-bottom: 12px;
@@ -94,6 +99,7 @@ h1, .h1, h2, .h2, h3, .h3, h4, .h4 {
       color: $primary!important;
     }
   }
+
   &.btn-outline-black {
     border: 1px solid rgba($black, .1);
     &:hover {
@@ -101,7 +107,9 @@ h1, .h1, h2, .h2, h3, .h3, h4, .h4 {
       color: $primary!important;
     }
   }
+
 }
+
 .form-control, .custom-select {
   border: 2px solid darken($light, 5%);
   font-size: 16px;
@@ -111,6 +119,7 @@ h1, .h1, h2, .h2, h3, .h3, h4, .h4 {
     box-shadow: none;
   }
 }
+
 .gutter-v1 {
   margin-right: -20px;
   margin-left: -20px;
@@ -128,13 +137,14 @@ h1, .h1, h2, .h2, h3, .h3, h4, .h4 {
     }
   }
 }
+
 .spinner-border {
 	color: $primary;
 }
 /*PRELOADING------------ */
 #overlayer {
   width:100%;
-  height:100%;
+  height:100%;  
   position:fixed;
   z-index:7100;
   background: $white;
@@ -143,6 +153,7 @@ h1, .h1, h2, .h2, h3, .h3, h4, .h4 {
   right: 0;
   bottom: 0;
 }
+
 .loader {
 	z-index:7700;
 	position: fixed;
