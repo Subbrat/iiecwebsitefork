@@ -1,12 +1,28 @@
-body {
+ @charset "UTF-8";body {
   font-family: "Roboto", sans-serif;
   background-color: #fff;
   font-weight: 300;
   color: rgba(0, 0, 0, 0.5);
   color: #707070;
-  line-height: 1.7;
+  ine-height: 1.7;
   overflow-x: hidden;
   position: relative;
+}
+
+.body,
+html {
+  overflow-y: scroll;
+}
+
+.body,
+html::-webkit-scrollbar {
+  display: none;
+}
+
+.body,
+html {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
 }
 
 body:before {
