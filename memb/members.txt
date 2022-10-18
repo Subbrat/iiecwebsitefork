@@ -1,0 +1,218 @@
+Faculty Advisor
+
+Dr. Natasha Sharma
+Assistant Professor at Department of Physical Sciences, IISER Berhampur
+https://phy.iiserbpr.ac.in/index.php?category=physics&pid=n-about
+nsharma@iiserbpr.ac.in
+
+Dr. Rohit Soni
+Assistant Professor at Department of Physical Sciences, IISER Berhampur
+https://phy.iiserbpr.ac.in/index.php?category=physics&pid=rohit-academic
+rsoni@iiserbpr.ac.in
+
+Rakesh Kumar Pathak
+Assistant Professor at Department of Chemical Sciences, IISER Berhampur
+https://chem.iiserbpr.ac.in/index.php?category=cs-fac&pid=rakesh-about
+rkpathak@iiserbpr.ac.in
+
+Arunkumar Krishnan
+Assistant Professor at Department of Biological Sciences, IISER Berhampur
+https://bio.iiserbpr.ac.in/arun-about.php
+akrishnan@iiserbpr.ac.in
+
+
+Club Coordinator
+Ranjit Patro
+
+Club Coordinator
+Dipto Kumar Haldar
+
+Club Coordinator
+Shiwangee
+
+Club Coordinator
+Dron Mahadik
+
+
+
+
+
+Innovation Team
+Ananyo Mondal
+Shelish Laimayum
+
+Events Team
+Anly Tollan (Lead)
+Prithviraj (Co-Lead)
+Monalisa
+Rudrajit
+Astha
+Arsha
+
+Design Team
+Siddhant Raj Naik (Lead)
+Divyanjay (Co-Lead)
+Lipsa dash
+Spandana
+Swarnava
+
+Tech Team
+Subrot Kumar Mallick (Lead)
+Rudra Prasad Sahu
+Sabyasachi
+
+Media Team
+Shiwangee (Lead)
+Saketh
+Dibyandu
+Bevan Mathew
+Missa Saril
+
+PR Team
+Yashswini (Lead)
+Srinjini
+Anushka
+
+
+
+
+
+
+
+22 - 23 - current - team.html
+21 - 22 - in prev website - t21.html
+
+
+
+
+Past Members:
+Team 2020-21
+Soumya Ranjan Parida, President
+Vinayak S, Secretary
+Iwin K. Joseph
+Abhisek Praharaj
+Soumyajit Samalq
+Amrutha P R
+Archisman Panda
+Alphonza Joseph
+Prajwal Patil
+Ananya Anubhav Biswal
+Nitin Tripathi
+Sambit Mishra
+Rajesh Kumar Sau
+Simran Sethi
+Surajana Takoe
+Harsh Mishra
+Purna Dutta
+Gayatri Subhalaxmi
+
+
+
+Founding Members:
+Soumya Ranjan Parida
+Iwin Joseph
+Vinayak S
+Abhisekh Praharaj
+Nitin Tripathy
+Soumyajit Samal
+Amrutha P R
+Alphonza Joseph
+Suranjana Takoe
+Sambit Mishra
+Rajesh Kumar Sau
+
+
+<div class="col-md-4 col-sm-6">
+    <div class="our-team">
+        <div class="pic">
+            <img src="./imges/suranjana.jpg">
+            <ul class="social">
+                <li><a target="_blank" href="https://www.instagram.com/suranjanatakoe/" class="icon-instagram"></a></li>
+                <li><a target="_blank" href="mailto:suranjana18@iiserbpr.ac.in" class="icon-envelope"></a>
+                </li>
+            </ul>
+        </div>
+        <div class="team-content">
+            <h3 class="title">Suranjana Takoe</h3>
+            <span class="post">Lead, Innovation Team</span>
+        </div>
+    </div>
+</div>
+<div class="col-md-4 col-sm-6">
+    <div class="our-team">
+        <div class="pic">
+            <img src="./imges/sambit.jpg">
+            <ul class="social">
+                <li><a target="_blank" href="https://www.facebook.com/sambit.mishra.980" class="icon-facebook"></a></li>
+                <li>
+                    <a target="_blank" href="https://www.linkedin.com/in/sambit-mishra-236b441b7/"><span
+                            class="icon-linkedin"></span></a>
+                </li>
+                <li><a target="_blank" href="https://www.instagram.com/ig._.evan._.20._/" class="icon-instagram"></a>
+                </li>
+                <li><a target="_blank" href="mailto:sambitm19@iiserbpr.ac.in" class="icon-envelope"></a>
+                </li>
+            </ul>
+        </div>
+        <div class="team-content">
+            <h3 class="title">Sambit Mishra</h3>
+            <span class="post">Co-Lead, Innovation Team</span>
+        </div>
+    </div>
+</div>
+<div class="col-md-4 col-sm-6">
+    <div class="our-team">
+        <div class="pic">
+            <img src="./imges/rajesh.jpg">
+            <ul class="social">
+                <li><a target="_blank" href="https://www.facebook.com/rajesh.sau04" class="icon-facebook"></a></li>
+                <li><a target="_blank"
+                        href="https://twitter.com/RJ0421?fbclid=IwAR0OYQjseCJ93oiPmNOETZc3NF7wvTH4MZQ3HMOrJtlqOZRhBFN-jVYbCT4"
+                        class="icon-twitter"></a></li>
+                <li><a target="_blank"
+                        href="https://www.instagram.com/rajeshsau_0421/?fbclid=IwAR2C8lTnEDXiTcoVyKXMbNRniqRAeb9t7aR9DaBq4VSVMuNS9fKq8uTRgak"
+                        class="icon-instagram"></a></li>
+                <li><a target="_blank" href="mailto:rajesh19@iiserbpr.ac.in" class="icon-envelope"></a>
+                </li>
+            </ul>
+        </div>
+        <div class="team-content">
+            <h3 class="title">Rajesh Kumar Sau</h3>
+            <span class="post">Innovation Team</span>
+        </div>
+    </div>
+</div>
+<div class="col-md-4 col-sm-6">
+    <div class="our-team">
+        <div class="pic">
+            <img src="./imges/Alphanzo.jpeg">
+            <ul class="social">
+                <li><a target="_blank" href="https://www.instagram.com/alphonza_joseph/" class="icon-instagram"></a>
+                </li>
+                <li><a target="_blank" href="mailto:alphonza19@iiserbpr.ac.in" class="icon-envelope"></a>
+                </li>
+            </ul>
+        </div>
+        <div class="team-content">
+            <h3 class="title">Alphonza Joseph</h3>
+            <span class="post">Innovation Team</span>
+        </div>
+    </div>
+</div>
+<div class="col-md-4 col-sm-6">
+    <div class="our-team">
+        <div class="pic">
+            <img src="./imges/abhisek.jpeg">
+            <ul class="social">
+                <li><a target="_blank" href="https://twitter.com/AbhisekPrahara1" class="icon-twitter"></a>
+                </li>
+                <li><a target="_blank" href="mailto:abhisekp19@iiserbpr.ac.in" class="icon-envelope"></a>
+                </li>
+            </ul>
+        </div>
+        <div class="team-content">
+            <h3 class="title">Abhisek Praharaj</h3>
+            <span class="post">Innovation Team</span>
+        </div>
+    </div>
+</div>

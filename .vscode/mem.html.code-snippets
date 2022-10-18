@@ -1,0 +1,24 @@
+{ // for team members
+	"html": {
+		"prefix": "q",
+		"body": [
+			" <div class=\"col-md-4 col-sm-6\" style=\"float:none;margin:auto;\">",
+			"                      <div class=\"our-team\">",
+			"                        <div class=\"pic\">",
+			"                          <img src=\"./${3:avat}.png\">",
+			"                          <ul class=\"social\">",
+			"                            <li><a target=\"_blank\" href=\"mailto:${4:}@iiserbpr.ac.in\" class=\"icon-envelope\"></a>",
+			"                            </li>",
+			"                          </ul>",
+			"                        </div>",
+			"                        <div class=\"team-content\">",
+			"                          <h3 class=\"title cap\">${1:}</h3>",
+			"                        </div>",
+			"                      </div>",
+			"                    </div>",
+			"",
+			""
+		],
+		"description": "html"
+	}
+}

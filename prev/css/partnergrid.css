@@ -1,0 +1,47 @@
+ @charset "UTF-8";
+ /* .img-box {
+    padding: 30px;
+    comm border: 1px solid #cecece;
+    align-items: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 20px;
+    background-color: #e6e6e6;
+    min-height: 200px
+}
+
+.img-box img {
+    max-width: 100%;
+    filter: grayscale(100%);
+    transition: all 0.3s;
+}
+
+.img-box:hover img {
+    filter: none;
+}
+  */
+
+ * {
+     box-sizing: border-box;
+ }
+
+ .column {
+     float: left;
+     width: 33.33%;
+     padding: 5px;
+ }
+
+ /* Clearfix (clear floats) */
+ .row::after {
+     content: "";
+     clear: both;
+     display: table;
+ }
+
+ /* Responsive layout - makes the three columns stack on top of each other instead of next to each other */
+ @media screen and (max-width: 500px) {
+     .column {
+         width: 100%;
+     }
+ }
